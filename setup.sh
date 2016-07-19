@@ -28,7 +28,7 @@ cd zsh_files
 ./setup.sh
 
 mdkir -p ~/.vim/plugins
-ln -s ~/code/github/vonTronje/vimfiles/vimrc ~/.vim
+ln -s ~/code/github/vonTronje/vimfiles/vimrc ~/.vimrc
 ln -s ~/code/github/vonTronje/vimfiles/bundles.vim ~/.
 ln -s ~/code/github/vonTronje/vimfiles/update_bundles.sh ~/.vim
 ln -s ~/code/github/vonTronje/vimfiles/plugins/bclose.vim ~/.vim/plugins/bclose.vim
