@@ -12,6 +12,12 @@ brew cask install alfred
 brew cask install spectacle
 
 brew install tree
+brew install rbenv
+
+# install some current ruby versions
+rbenv install 2.3.1
+rbenv install 2.2.5
+rbenv install 2.1.9
 
 mkdir -p ~/code/github/vonTronje && cd ~/code/github/vonTronje
 
