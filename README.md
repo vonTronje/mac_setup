@@ -15,4 +15,9 @@ For Spectacle:
  Right Half  => Cmd + Shift + Right Arrow
  Top Half    => Cmd + Shift + Top Arrow
  Bottom Half => Cmd + Shift + Bottom Arrow
- 
+
+For iTerm
+ 1. Open preferences
+ 2. Select Profiles
+ 3. Select Colors
+ 4. Select Solarized Light from Color Presets

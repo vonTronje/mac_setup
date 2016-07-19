@@ -35,3 +35,8 @@ ln -s ~/code/github/vonTronje/vimfiles/update_bundles.sh ~/.vim
 ln -s ~/code/github/vonTronje/vimfiles/plugins/bclose.vim ~/.vim/plugins/bclose.vim
 cd ~/.vim/
 ./update_bundles.sh
+
+cd ~/code/github/vonTronje
+git clone git@github.com:altercation/vim-colors-solarized.git
+mkdir ~/.vim/colors
+cp vim-colors-solarized/colors/solarized.vim ~/.vim/colors/
