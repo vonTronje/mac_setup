@@ -1,17 +1,17 @@
 #!/bin/sh
 
 # install brew
-# /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 # tap brew casks
-# brew tap caskroom/cask
+brew tap caskroom/cask
 # install various programs
-# brew cask install mattermost
-# brew cask install google-chrome
-# brew cask install iterm2
-# brew cask install alfred
-# brew cask install spectacle
+brew cask install mattermost
+brew cask install google-chrome
+brew cask install iterm2
+brew cask install alfred
+brew cask install spectacle
 
-# brew install tree
+brew install tree
 
 mkdir -p ~/code/github/vonTronje && cd ~/code/github/vonTronje
 
