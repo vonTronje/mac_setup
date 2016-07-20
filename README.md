@@ -24,3 +24,9 @@ For iTerm
  2. Select Profiles
  3. Select Colors
  4. Select Solarized Light from Color Presets
+
+General
+ 1. Open 'Dock' Settings and check 'automatically hide and show the Dock'
+ 2. Open 'Keyboard' Settings and adapt
+    a) Key Repeat -> Fastest
+    b) Delay Until Repeat -> Shortest
