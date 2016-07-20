@@ -5,11 +5,11 @@ Add ssh-keys to ~/.ssh and change the private key file permissions to user read 
 Run setup.sh
 
 Change settings:
-For Alfred:
+For Alfred
  1. Unset Cmd+Space as spotlight shortcut
  2. Set Cmd+Space as alfred shortcut
 
-For Spectacle:
+For Spectacle
  1. Fullscreen  => Cmd + Shift + Enter
     Left Half   => Cmd + Shift + Left Arrow
     Right Half  => Cmd + Shift + Right Arrow
@@ -30,3 +30,15 @@ General
  2. Open 'Keyboard' Settings and adapt
     a) Key Repeat -> Fastest
     b) Delay Until Repeat -> Shortest
+
+Keyboard Layout
+ 1. Open 'https://hci.rwth-aachen.de/USGermanKeyboard'
+ 2. Download the .zip file and unzip it
+ 3. Copy Roman.bundle into '/Library/Keyboard Layouts'
+    i.e. sudo cp -R ~/Downloads/USGerman\ Keyboard\ Layout\ 0.98/Roman.bundle /Library/Keyboard\ Layouts
+ 4. Close all Applications
+ 5. a) Open 'Keyboard Settings'
+    b) Select 'Input Sources'
+    c) Add a new source (+)
+    d) Click Other
+    e) Select 'U.S. with Umlauts via Option Key'
