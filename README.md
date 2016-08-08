@@ -30,6 +30,8 @@ General
  2. Open 'Keyboard' Settings and adapt
     a) Key Repeat -> Fastest
     b) Delay Until Repeat -> Shortest
+ 3. In 'Keyboard' Settings -> Shortcuts -> Input Sources deactivate both input
+    source shortcuts
 
 Keyboard Layout
  1. Open 'https://hci.rwth-aachen.de/USGermanKeyboard'
