@@ -28,13 +28,13 @@ echo 'You can generate a personal access token at https://codevault.io/profile/p
 docker login registry.codevault.io
 
 # give one more chance for correct login to docker
-if [ $? -ne 0] ; then
+if [ $? -ne 0 ] ; then
     echo 'Login unsuccessful. Please make sure to use the correct email as username and password.'
     echo 'Important: If you have 2FA enabled you neeed to use a personal access token as the password. Generate one at: https://codevault.io/profile/personal_access_tokens' 
     docker login registry.codevault.io
 fi
 
-if [ $? -ne 0] ; then
+if [ $? -ne 0 ] ; then
     echo 'Login unsuccessful. Aborting attempts to login. Remember to log in to the registry when needed and set the DOCKER_LOGIN and GITLAB_ACCESS_TOKEN environment variables.'
 fi
 
