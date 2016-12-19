@@ -10,11 +10,12 @@ For Alfred
  2. Set Cmd+Space as alfred shortcut
 
 For Spectacle
- 1. Fullscreen  => Ctrl + Cmd + Enter
-    Left Half   => Ctrl + Cmd + Left Arrow
-    Right Half  => Ctrl + Cmd + Right Arrow
-    Top Half    => Ctrl + Cmd + Top Arrow
-    Bottom Half => Ctrl + Cmd + Bottom Arrow
+ 1. Shortcuts
+    * Fullscreen  => Ctrl + Cmd + Enter
+    * Left Half   => Ctrl + Cmd + Left Arrow
+    * Right Half  => Ctrl + Cmd + Right Arrow
+    * Top Half    => Ctrl + Cmd + Top Arrow
+    * Bottom Half => Ctrl + Cmd + Bottom Arrow
  2. a) Click right arrow on lower right corner
     b) Check "Launch Spectacle at login"
 
