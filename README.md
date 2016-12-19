@@ -1,6 +1,6 @@
 Basic setup for my Mac
 
-Add ssh-keys to ~/.ssh and change the private key file permissions to user read only ( chmod 400 ~/.ssh/id_rsea)
+Add ssh-keys to ~/.ssh and change the private key file permissions to user read only ( chmod 400 ~/.ssh/id_rsa)
 
 Run setup.sh
 
