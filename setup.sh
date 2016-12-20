@@ -14,9 +14,11 @@ brew cask install alfred
 brew cask install spectacle
 brew cask install skype
 brew cask install docker
+brew cask install sequel-pro
 
 brew install tree
 brew install rbenv
+brew install the_silver_searcher
 
 # start docker daemon
 open /Applications/Docker.app
