@@ -16,6 +16,7 @@ brew cask install spectacle
 brew cask install docker
 brew cask install slack
 brew cask install 1password
+brew cask install spotify
 
 brew install tree
 brew install rbenv
