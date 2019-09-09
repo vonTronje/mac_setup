@@ -21,10 +21,21 @@ For Spectacle
 
 
 For iTerm
+* Color scheme
  1. Open preferences
  2. Select Profiles
  3. Select Colors
  4. Select Solarized Light from Color Presets
+* Working directory
+ 1. Open preferences
+ 2. Select Profiles
+ 3. Select General
+ 4. Scroll to 'Working Directory'
+ 5. Choose 'Advanced Configuration'
+ 6. Set 'Working Directory for New Windows' and 'Working Directory for New
+    Tabs' to your standard preference (currently `~/code/codevault` for me)
+ 7. Set 'Working Directory for New Split Panes' to 'Reuse previous session's
+    directory'
 
 General
  1. Open 'Dock' Settings and check 'automatically hide and show the Dock'
