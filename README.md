@@ -45,7 +45,7 @@ General
  3. In 'Keyboard' Settings -> Keyboard -> Modifier Keys set Caps Lock to 'No Action'
 
 Keyboard Layout
- 1. Open 'https://hci.rwth-aachen.de/USGermanKeyboard'
+ 1. Open 'https://hci.rwth-aachen.de/usgermankeyboard'
  2. Download the .zip file and unzip it
  3. Copy Roman.bundle into '/Library/Keyboard Layouts'
     i.e. sudo cp -R ~/Downloads/USGerman\ Keyboard\ Layout\ 0.98/Roman.bundle /Library/Keyboard\ Layouts
